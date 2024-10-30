@@ -50,7 +50,7 @@ body {
 
 .message.user {
     background-color: #fff;
-    color: white;
+    color: black;
     align-self: flex-end;
 }
 
